@@ -5,9 +5,10 @@ In this repo are the files for the new **NW Bethlehem Explosion** logo (tm), to 
 ![Explosion Logo](https://github.com/AdamPuzio/ExplosionLogo/raw/master/web/ExplosionLogo-White_500x257.png)
 
 
-There are 2 folders:
+There are 3 folders:
 - src: These are the source vector files, usually used for printing
 - web: These are rasterized web files, like .jpg (solid background) and .png (transparent background)
+- sew: These are the digitized versions used for embroidery
 
 There are 2 versions:
 - ExplosionLogo-Red: red lettering
