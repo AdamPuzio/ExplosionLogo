@@ -29,7 +29,7 @@ The grayscale version of the logo, featuring gray lettering and a gray ball
 
 ### JustBall
 The smaller, square version of the logo which just features the ball
-![Explosion Logo - Just Ball](https://github.com/AdamPuzio/ExplosionLogo/raw/master/web/ExplosionLogoJustBall-500x500.png)
+![Explosion Logo - Just Ball](https://github.com/AdamPuzio/ExplosionLogo/raw/master/web/ExplosionLogoJustBall.png)
 
 ## Ordering
 
